@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
