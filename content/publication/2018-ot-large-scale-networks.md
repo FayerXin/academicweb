@@ -5,7 +5,7 @@ title = "Oxytocin Modulates the Intrinsic Dynamics Between Attention-Related Lar
 date = "2018-12-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fei Xin, "Feng Zhou", "**Xinqi Zhou**", "Xiaole Ma", "Yayuan Geng", "Weihua Zhao", "Shuxia Yao", "Debo Dong", "Bharat B. Biswal", "Keith M. Kendrick", "Benjamin Becker"]
+authors = ["Fei Xin", "Feng Zhou", "**Xinqi Zhou**", "Xiaole Ma", "Yayuan Geng", "Weihua Zhao", "Shuxia Yao", "Debo Dong", "Bharat B. Biswal", "Keith M. Kendrick", "Benjamin Becker"]
 
 # Publication type.
 # Legend:
