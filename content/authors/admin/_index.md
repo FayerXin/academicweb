@@ -31,7 +31,7 @@ education:
     year: 2017-now
   - course: Master in Basic Psychology
     institution: Southwest University
-    year: 2013-2017
+    year: 2014-2017
 
 
 # Social/Academic Networking
