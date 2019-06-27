@@ -30,7 +30,12 @@ abstract_short = "A short version of the abstract."
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
+
+# Featured Content widget.
+# This section displays publications from `content/publication/` which have
+# `featured = true` in their front matter.
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,10 +70,6 @@ highlight = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
-# Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
-featured = true
 
 +++
 
