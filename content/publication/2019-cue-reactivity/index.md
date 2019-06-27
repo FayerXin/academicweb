@@ -19,6 +19,4 @@ Irrespective of dependence status, cannabis users demonstrated elevated trait im
 Conclusions
 Taken together, the current findings suggest that exaggerated responses of the ventral striatal reward system may promote excessive drug use in humans, whereas adaptations in dorsal striatal systems engaged in habit formation may promote the transition to addictive use.
 
-Keywords:
-Addiction, Amygdala, Cannabis, Cue reactivity, Impulsivity, Striatum
 ---
