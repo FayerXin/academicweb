@@ -23,17 +23,7 @@ publication = "*International Journal of Neuropsychopharmacology*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Background
-While the neuropeptide oxytocin can facilitate empathy and altruistic behavior it may also promote self-serving tendencies in some contexts, and it remains unclear if it would increase altruistic or self-interest behaviors when they compete within a social situation.
-
-Methods
-The current between-subject, double-blind, placebo-controlled fMRI study investigated the effect of intranasal oxytocin on empathy for social exclusion using a modified online ball-tossing game which incorporated monetary rewards and both the potential to display altruistic and self-interest behaviors.
-
-Results
-Results showed that when subjects in both oxytocin and placebo groups were observing a player being excluded (victim) by other players in the game there was activation in the mentalizing network. When subjects then played both with the victim and the players who had excluded them they threw more balls to the victim player, indicative of an altruistic response. However, subjects in the oxytocin group threw more balls to the excluder players indicative of greater self-interest, since the latter would be perceived as more likely to reciprocate to maximize financial gain. This behavioral effect of oxytocin was associated with greater medial orbitofrontal cortex activation when playing with the excluders and negatively correlated with trait-altruism scores.
-
-Conclusions
-Overall, our findings suggest that in the context of competing motivations for exhibiting altruistic or self-interest behavior oxytocin enhanced self-interest and this was associated with greater activation in frontal reward areas."
+abstract = "While the neuropeptide oxytocin can facilitate empathy and altruistic behavior it may also promote self-serving tendencies in some contexts, and it remains unclear if it would increase altruistic or self-interest behaviors when they compete within a social situation. The current between-subject, double-blind, placebo-controlled fMRI study investigated the effect of intranasal oxytocin on empathy for social exclusion using a modified online ball-tossing game which incorporated monetary rewards and both the potential to display altruistic and self-interest behaviors. Results showed that when subjects in both oxytocin and placebo groups were observing a player being excluded (victim) by other players in the game there was activation in the mentalizing network. When subjects then played both with the victim and the players who had excluded them they threw more balls to the victim player, indicative of an altruistic response. However, subjects in the oxytocin group threw more balls to the excluder players indicative of greater self-interest, since the latter would be perceived as more likely to reciprocate to maximize financial gain. This behavioral effect of oxytocin was associated with greater medial orbitofrontal cortex activation when playing with the excluders and negatively correlated with trait-altruism scores. Overall, our findings suggest that in the context of competing motivations for exhibiting altruistic or self-interest behavior oxytocin enhanced self-interest and this was associated with greater activation in frontal reward areas."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
