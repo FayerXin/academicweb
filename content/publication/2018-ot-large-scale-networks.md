@@ -2,7 +2,7 @@
 title = "Oxytocin Modulates the Intrinsic Dynamics Between Attention-Related Large-Scale Networks"
 
 # Date first published.
-date = "December-07-2018"
+date = "Dec-07-2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Fei Xin", "Feng Zhou", "**Xinqi Zhou**", "Xiaole Ma", "Yayuan Geng", "Weihua Zhao", "Shuxia Yao", "Debo Dong", "Bharat B. Biswal", "Keith M. Kendrick", "Benjamin Becker"]
