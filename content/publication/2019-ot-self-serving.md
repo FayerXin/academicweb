@@ -5,7 +5,7 @@ title = "Oxytocin facilitates self-serving rather than altruistic tendencies in 
 date = "2019-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaolei Xu", "Congcong Liu", "Xinqi Zhou", "Yuanshu Chen", "Zhao Gao", "Feng Zhou", "Juan Kou", "Benjamin Becker", "Keith M Kendrick"]
+authors = ["Xiaolei Xu", "Congcong Liu", "**Xinqi Zhou**", "Yuanshu Chen", "Zhao Gao", "Feng Zhou", "Juan Kou", "Benjamin Becker", "Keith M Kendrick"]
 
 # Publication type.
 # Legend:
