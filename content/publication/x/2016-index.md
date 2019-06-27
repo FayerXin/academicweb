@@ -3,7 +3,7 @@
 
 title: "X"
 authors: []
-date: 2019-06-27T20:34:14+08:00
+date: 2019-06-27
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
