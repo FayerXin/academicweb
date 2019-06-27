@@ -1,4 +1,4 @@
----
++++
 title = "Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study"
 
 # Date first published.
@@ -75,5 +75,5 @@ image = ""
 caption = ""
 
 
----
++++
 
