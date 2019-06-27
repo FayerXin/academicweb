@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Xinqi Zhou is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://neuscan.org). His research goal is to combine psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
+Xinqi Zhou is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://www.neuscan.org). His research goal is to combine psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
 
