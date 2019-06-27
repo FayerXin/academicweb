@@ -15,4 +15,7 @@ header:
 ---
 Resources on this page are from the internet, please use them with caution.
 
-[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
+# Statistics for psychologist and neuroscientist
+- [Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
+
+# Codes
