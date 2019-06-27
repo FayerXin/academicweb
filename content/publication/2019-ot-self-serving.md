@@ -52,7 +52,8 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://academic.oup.com/ijnp/advance-article/doi/10.1093/ijnp/pyz028/5510038"
+url_source = ""
+url_doi = "doi: 10.1093/ijnp/pyz028"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
