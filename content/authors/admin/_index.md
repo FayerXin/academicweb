@@ -49,7 +49,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=t15ZMkQAAAAJ&hl
-- icon: researchgates
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Xinqi_Zhou3
 # - icon: github
