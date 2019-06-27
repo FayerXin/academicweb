@@ -45,10 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/StephenXinQZ
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=t15ZMkQAAAAJ&hl
+- icon: researchgates
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Xinqi_Zhou3
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -68,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Stephen is a PhD student of cognitive neuroscience at the [neuSCAN Lab](www.neuscan.org). His research interests include 1, 2 and 3. 
 
