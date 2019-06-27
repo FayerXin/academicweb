@@ -13,5 +13,6 @@ header:
   caption: ""
   image: ""
 ---
+Resources on this page are from the internet, please use them with caution.
 
 [Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
