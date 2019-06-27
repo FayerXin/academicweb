@@ -53,7 +53,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_doi = "doi: 10.1093/ijnp/pyz028"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
