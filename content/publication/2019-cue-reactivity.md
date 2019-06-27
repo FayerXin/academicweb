@@ -69,6 +69,7 @@ caption = "My caption 😄"
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 featured = true
+
 +++
 
 Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
