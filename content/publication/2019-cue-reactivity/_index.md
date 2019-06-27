@@ -8,5 +8,4 @@ publication_types: 2
 publication: *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*
 
 abstract: 
-
 ---
