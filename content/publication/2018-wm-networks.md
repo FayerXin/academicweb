@@ -26,6 +26,8 @@ publication_short = ""
 abstract = "The default mode network (DMN) is associated with the occurrence of mind-wandering or task-unrelated thought. In contrast, the frontal-parietal network (FPN) and visual network (VS) are involved in tasks with external stimuli. However, it is not clear how these functional network interactions support these two different processes – mind-wandering and on-task – especially with regard to individual variation in the mind-wandering experience. In this study, we investigated the functional connectivity and modular structure among the DMN, FPN, and VS. Our results showed that, compared to the on-task period, mind-wandering was associated with increased DMN activity and increased DMN-VS connectivity. Moreover, mind-wandering was accompanied by a large number of transitional nodes, which expressed a diversity of brain regions. Intriguingly, the functional connectivity of the FPN and VS was strongly correlated with individual behavioral performance. Our findings highlight the individual variation of mind-wandering, which implies the importance of other complementary large-scale brain networks."
 abstract_short = ""
 
+tags = ["Mind Wandering"]
+
 # Featured image thumbnail (optional)
 image_preview = ""
 

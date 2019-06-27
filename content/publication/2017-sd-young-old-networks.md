@@ -26,6 +26,8 @@ publication_short = ""
 abstract = "Decreased cognition performance and impaired brain function are similar results of sleep deprivation (SD) and aging, according to mounted supporting evidence. Some investigators even proposed SD as a model of aging. However, few direct comparisons were ever explored between the effects of SD and aging by network module analysis with the resting-state functional magnetic resonance imaging. In this study, both within-module and between-module (BT) connectivities were calculated in the whole brain to describe a complete picture of brain networks' functional connectivity among three groups (young normal sleep, young SD, and old group). The results showed that the BT connectivities in subcortical and cerebellar networks were significantly declined in both the young SD group and old group. There were six other networks, that is, ventral attention, dorsal attention, default mode, auditory, cingulo-opercular, and memory retrieval networks, significantly influenced by aging. Therefore, we speculated that the effects of SD on the young group can be regarded as a simplified model of aging. Moreover, this provided a possible explanation, that is, the old were more tolerable for SD than the young. However, SD may not be a considerable model for aging when discussing the brain regions related to those SD-uninfluenced networks."
 abstract_short = ""
 
+tags = ["Sleep Deprivation"]
+
 # Featured image thumbnail (optional)
 image_preview = ""
 
@@ -54,7 +56,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-tags = ["Sleep Deprivation"]
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
