@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Cue Reactivity in the Ventral Striatum Characterizes Heavy Cannabis Use, Whereas Reactivity in the Dorsal Striatum Mediates Dependent Use"
 
 # Date first published.
-date = "2013-07-01"
+date = "2019-04-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["**Xinqi Zhou**", "Kaeli Zimmermann", "Fei Xin", "Weihua Zhao", "Roelinka T. Derckx", "Anja Sassmannshausen", "Dirk Scheele", "Rene Hurlemann", "Bernd Weber", "Keith M. Kendrick", "Benjamin Becker"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,25 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "*Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*"
+publication_short = "*BPCNNI*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Background
+Animal models of addiction suggest that the transition from incentive-driven drug use to habitual and ultimately compulsive drug use is mediated by a shift from ventral to dorsal striatal cue control over drug seeking. Previous studies in human cannabis users reported elevated trait impulsivity and neural cue reactivity in striatal circuits; however, these studies were not able to separate addiction-related from exposure-related adaptations.
+
+Methods
+To differentiate the adaptive changes, the current functional magnetic resonance imaging study examined behavioral and neural cue reactivity in dependent (n = 18) and nondependent (n = 20) heavy cannabis users and a nonusing reference group (n = 44).
+
+Results
+Irrespective of dependence status, cannabis users demonstrated elevated trait impulsivity as well as increased ventral striatal reactivity and striatal frontal coupling in response to drug cues. Dependent users selectively exhibited dorsal striatal reactivity and decreased striatal limbic coupling during cue exposure. An exploratory analysis revealed that higher ventral caudate neural cue reactivity was associated with stronger cue-induced arousal and craving in dependent users, whereas this pattern was reversed in nondependent users.
+
+Conclusions
+Taken together, the current findings suggest that exaggerated responses of the ventral striatal reward system may promote excessive drug use in humans, whereas adaptations in dorsal striatal systems engaged in habit formation may promote the transition to addictive use."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -44,8 +54,8 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = ""
+url_pdf = "https://www.biologicalpsychiatrycnni.org/article/S2451-9022(19)30102-8/pdf"
+url_preprint = "https://www.biorxiv.org/content/10.1101/516385v1"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -67,10 +77,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = ""
+caption = ""
 
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.

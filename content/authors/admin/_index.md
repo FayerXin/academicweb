@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Stephen
+name: Xinqi Zhou
 
 # Username (this should match the folder name)
 authors:
@@ -15,24 +15,23 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: University
-  url: ""
+  url: "https://www.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 1, 2 and 3.
+bio: Investigating the secret of brain.
 
 interests:
 - Cognitive Neuroscience
-- 
-- 
+
 
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
-    institution: University
-    year: 2017
-  - course: Master
-    institution: Southwest
-    year: 2013
+    institution: University of Electronic Science and Technology of China
+    year: 2017 - now
+  - course: Master in Basic Psychology
+    institution: Southwest University
+    year: 2013 - 2017
 
 
 # Social/Academic Networking
@@ -71,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Stephen is a PhD student of cognitive neuroscience at the [neuSCAN Lab](www.neuscan.org). His research interests include 1, 2 and 3. 
+Stephen is a PhD student of cognitive neuroscience at the [neuSCAN Lab](www.neuscan.org). His research goal is to combine psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
 
