@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University
+- name: University of Electronic Science and Technology of China
   url: "https://www.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD in Cognitive Neuroscience
     institution: University of Electronic Science and Technology of China
-    year: 2017 - now
+    year: 2017-now
   - course: Master in Basic Psychology
     institution: Southwest University
-    year: 2013 - 2017
+    year: 2013-2017
 
 
 # Social/Academic Networking
