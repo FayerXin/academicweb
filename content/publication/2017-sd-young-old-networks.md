@@ -2,7 +2,7 @@
 title = "Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study"
 
 # Date first published.
-date = 2017-2-1
+date = 2017-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Xinqi Zhou**", "Taoyu Wu", "Jing Yu", "Xu Lei"]
