@@ -71,5 +71,6 @@ user_groups:
 - Visitors
 ---
 
-# Fei Xin is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://www.neuscan.org). His research goal is to combine  psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
+# Fei Xin is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://www.neuscan.org). His research goal is to combine 
+# psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
 
