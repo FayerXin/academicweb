@@ -22,6 +22,13 @@ bio: Investigating the secret of brain.
 
 interests:
 - Cognitive Neuroscience
+Large-scale Brain Network;
+Cognitive Control; Decision Making;
+Heart Rate Variability;
+Oxytocin;
+Food; Nutrition; Metabolism
+Locus Coeruleus;
+Major Depressive Disorder
 
 
 education:
