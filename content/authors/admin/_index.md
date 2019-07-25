@@ -18,27 +18,23 @@ organizations:
   url: "https://www.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigating the secret of brain.
+bio: Researcher in Cognitive Neuroscience
 
 interests:
-- Cognitive Neuroscience
-Large-scale Brain Network;
-Cognitive Control; Decision Making;
-Heart Rate Variability;
-Oxytocin;
-Food; Nutrition; Metabolism
-Locus Coeruleus;
-Major Depressive Disorder
+- Large-scale Brain Network;
+- Cognitive Control; Decision Making;
+- Heart Rate Variability;
+- Oxytocin;
+- Food; Nutrition; Metabolism
+- Major Depressive Disorder
 
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
+  - course: PhD in Biomedical Engineering 
     institution: University of Electronic Science and Technology of China
-    year: 2017-now
-  - course: Master in Basic Psychology
-    institution: Southwest University
-    year: 2014-2017
+    year: 2015-2019
+
 
 
 # Social/Academic Networking
@@ -51,13 +47,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/StephenXinQZ
+  link: https://twitter.com/FayerXin
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=t15ZMkQAAAAJ&hl
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Xinqi_Zhou3
+  link: https://scholar.google.com/citations?user=ItvxxGoAAAAJ&hl=en
+
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -77,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Xinqi Zhou is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://www.neuscan.org). His research goal is to combine psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
+# Fei Xin is a PhD student of cognitive neuroscience at the [neuSCAN Lab](http://www.neuscan.org). His research goal is to combine  psychometrics, behavioral measurements, and fMRI to investigate the mechanism of brain and mind, including addiction, etc. 
 
