@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xinqi Zhou
+name: Fei Xin
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
