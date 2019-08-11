@@ -26,7 +26,7 @@ publication_short = ""
 abstract = "An extensive body of literature has indicated that there is increased activity in the frontoparietal control network (FPC) and decreased activity in the default mode network (DMN) during working memory (WM) tasks. The FPC and DMN operate in a competitive relationship during tasks requiring externally directed attention. However, the association between this FPC-DMN competition and performance in social WM tasks has rarely been reported in previous studies. To investigate this question, we measured FPC-DMN connectivity during resting state and two emotional face recognition WM tasks using the 2-back paradigm. Thirty-four individuals were instructed to perform the tasks based on either the expression [emotion (EMO)] or the identity (ID) of the same set of face stimuli. Consistent with previous studies, an increased anti-correlation between the FPC and DMN was observed during both tasks relative to the resting state. Specifically, this anti-correlation during the EMO task was stronger than during the ID task, as the former has a higher social load. Intriguingly, individual differences in self-reported empathy were significantly correlated with the FPC-DMN anti-correlation in the EMO task. These results indicate that the top-down signals from the FPC suppress the DMN to support social WM and empathy."
 abstract_short = ""
 
-tags = ["Brain Netwrok"]
+tags = ["Brain Network"]
 
 # Featured image thumbnail (optional)
 image_preview = ""
