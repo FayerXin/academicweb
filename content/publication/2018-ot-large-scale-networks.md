@@ -26,7 +26,7 @@ publication_short = ""
 abstract = "Attention and salience processing have been linked to the intrinsic between- and within-network dynamics of large-scale networks engaged in internal (default network [DN]) and external attention allocation (dorsal attention network [DAN] and salience network [SN]). The central oxytocin (OXT) system appears ideally organized to modulate widely distributed neural systems and to regulate the switch between internal attention and salient stimuli in the environment. The current randomized placebo (PLC)-controlled between-subject pharmacological resting-state fMRI study in N = 187 (OXT, n = 94; PLC, n = 93; single-dose intranasal administration) healthy male and female participants employed an independent component analysis approach to determine the modulatory effects of OXT on the within- and between-network dynamics of the DAN–SN–DN triple network system. OXT increased the functional integration between subsystems within SN and DN and increased functional segregation of the DN with both attentional control networks (SN and DAN). Whereas no sex differences were observed, OXT effects on the DN–SN interaction were modulated by autistic traits. Together, the findings suggest that OXT may facilitate efficient attention allocation by modulating the intrinsic functional dynamics between DN components and large-scale networks involved in external attentional demands (SN and DAN)."
 abstract_short = ""
 
-tags = ["fMRI","Oxytocin", "Resting State", Brain Network"]
+tags = ["fMRI", "Oxytocin", "Resting State", Brain Network"]
 
 # Featured image thumbnail (optional)
 image_preview = ""
