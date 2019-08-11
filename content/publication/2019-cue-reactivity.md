@@ -5,7 +5,7 @@ title = "Cue Reactivity in the Ventral Striatum Characterizes Heavy Cannabis Use
 date = "2019-04-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Xinqi Zhou**", "Kaeli Zimmermann", "Fei Xin", "Weihua Zhao", "Roelinka T. Derckx", "Anja Sassmannshausen", "Dirk Scheele", "Rene Hurlemann", "Bernd Weber", "Keith M. Kendrick", "Benjamin Becker"]
+authors = ["Xinqi Zhou", "Kaeli Zimmermann", "**Fei Xin**", "Weihua Zhao", "Roelinka T. Derckx", "Anja Sassmannshausen", "Dirk Scheele", "Rene Hurlemann", "Bernd Weber", "Keith M. Kendrick", "Benjamin Becker"]
 
 # Publication type.
 # Legend:
