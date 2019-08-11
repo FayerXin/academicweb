@@ -37,7 +37,7 @@ selected = false
 # Featured Content widget.
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
