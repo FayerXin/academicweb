@@ -1,9 +1,4 @@
----
 
-
----
-
-<p>+++<br>
 title = “Reconfiguration of dynamic functional connectivity in sensory and perceptual system in schizophrenia”</p>
 <h1 id="date-first-published.">Date first published.</h1>
 <p>date = “2018-10-01”</p>
